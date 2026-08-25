@@ -1,6 +1,6 @@
 # qck.nit
 
-> resolve the web into depth.
+> resolve the web into depth or scan and create bitmemory of your colors and preferences so that each page evolves over time.
 
 `qck.nit` starts with the smallest useful physics: bounding boxes + relations.
 It does not need to know React, Angular, Figma, or what a "button" means before it can orient the page.
