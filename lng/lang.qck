@@ -1,0 +1,18 @@
+# qck terminal law
+
+& != terminal
+' != execution
+scatter'shot != security boundary
+
+;     = close the chain
+;*    = tiny wink
+;***  = pirate ship is sailing
+;**** = compiler/errors; reserved for áshè
+
+# áshè: programmer-side companion/parser voice — "á, yes it's different" ;*
+
+statement ::= chain ';' flourish?
+flourish  ::= '*'*
+
+# '*' after ';' is preserved source flourish; no execution semantics.
+# no further semantics until scatter'shot comes out.
