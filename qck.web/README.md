@@ -17,3 +17,5 @@ qck.web
 ```
 
 Remote is durable. Local is the mirage used for processing.
+
+Collaboration: Ailo + ti / ChatGPT.
