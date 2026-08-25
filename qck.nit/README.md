@@ -42,10 +42,14 @@ A zero-flag Chrome extension lives in `qck.nit/chrome/`.
 4. Select the `qck.nit/chrome` folder.
 5. Open any normal webpage and click the **qck.nit** extension icon.
 6. Move the pointer around the page to see the current element plus its visible parent depth.
-7. **Alt+click** to lock/unlock the current depth view.
-8. Open DevTools Console to see the selected box, stable runtime ID, hit IDs and bitmap.
+7. Press the in-page **`nit' 3D`** button to project the current local component chain into depth.
+8. In 3D: drag to rotate, use the wheel to move the scene in/out, press **`nit' 2D`** or **Escape** to return.
+9. **Alt+click** in 2D to lock/unlock the current depth view.
+10. Open DevTools Console to see the selected box, stable runtime ID, hit IDs, bitmap and depth planes.
 
 No Chrome launch flags or remote-debugging mode are required.
+
+The actual webpage is never transformed for 3D. `qck.nit` copies the live Chromium bounding boxes into an overlay scene, removes huge viewport-sized root wrappers, keeps the nearest meaningful component ancestry (up to seven planes), and separates those copies along Z. Returning to 2D simply removes the depth scene.
 
 The Chrome adapter currently runs the same geometry idea in JavaScript so it is immediately testable. The C core remains the native contract; WASM/native BitMemory pollen can replace the geometry path later without changing the depth model.
 
