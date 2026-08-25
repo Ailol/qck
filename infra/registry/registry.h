@@ -34,6 +34,14 @@ typedef struct {
     uint32_t width;
 } reg_col_t;
 
+// Standard 1-bit predicates — P(property) over the address space.
+// Use REG_P_COL(name, offset) to declare a bitplane column.
+#define REG_P_COL(n, off)  { .name = (n), .offset = (off), .width = 1 }
+
+#define REG_P_NEEDED    "needed"    // object is required by current world
+#define REG_P_RUNNABLE  "runnable"  // object can execute
+#define REG_P_KEEPALIVE "keepalive" // object must stay resident
+
 typedef struct {
     reg_col_t *cols;
     size_t     n_cols;
