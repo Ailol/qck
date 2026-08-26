@@ -5,14 +5,14 @@
 #### ☈ 'Dance.'
 <img width="182" height="53" alt="image" src="https://github.com/user-attachments/assets/2d039d61-70fd-4e39-b298-9ae10d3abf42" />
 
-## ᴛɪɴʏ'
+## ᴛɪɴʏ'🐝
 
 <img width="15" height="21" alt="image" src="https://github.com/user-attachments/assets/586ebce5-e566-4fd0-9b01-3c9255e5d86e" /> ⡞⠳⣠⠞⢷⣠⣄⣀⣠⠞⢷⣠⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img width="202" height="20" alt="image" src="https://github.com/user-attachments/assets/2f3fdb1c-cc74-40d8-a7c2-d9b6693daad9" />
                                    
                                            
-# the lang.qck in essence is this  [.]
+#  ᴛɪɴʏ :== b33
 
 <div align="center">
 <br/>
