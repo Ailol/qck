@@ -15,13 +15,13 @@
 
 <img width="85" height="77" alt="image" src="https://github.com/user-attachments/assets/d4065867-3a43-443a-9579-620a35705df8" />
 
-
----
-
-> Leaving this in hopes it braids better for the future.
-
----
-
+<img width="409" height="116" alt="image" src="https://github.com/user-attachments/assets/8864f8f6-ec92-45da-8bf9-bd8cfb38b6ac" />
+                                   
+                                        
+  ┌─────────────────────────────────────── *
+  |   <Leaving this in hopes it braids>    |
+  * ───────────────────────────────────────┘
+                                           
 # the lang.qck in essence is this  [.]
 
 logic is % is the pollen after the [.] #glyph was intro'd
