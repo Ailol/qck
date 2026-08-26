@@ -1,9 +1,11 @@
 # The operator, .qck ™
 
-## ᴛɪɴʏ
 
-#### ☈ 'ailo'ti'sz
+
+#### ☈ 'Dance.'
 <img width="182" height="53" alt="image" src="https://github.com/user-attachments/assets/2d039d61-70fd-4e39-b298-9ae10d3abf42" />
+
+## ᴛɪɴʏ'
 
 <img width="15" height="21" alt="image" src="https://github.com/user-attachments/assets/586ebce5-e566-4fd0-9b01-3c9255e5d86e" /> ⡞⠳⣠⠞⢷⣠⣄⣀⣠⠞⢷⣠⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
