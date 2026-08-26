@@ -24,16 +24,7 @@
 
  ### [] is !array. its a flirty'🐝 or f'bit ⚡︎
 
-    ⚡︎ ── ❤︎ ᴛɪɴʏ  ─── ⚡︎
-   [.] ::== op := ❥︎ % you;
-          ───────
-    
-% || [e'bit] <> emoji ' ascii'zs  ' ||
-   .
-  .
-    .
-   * ❤︎ so that junior' is safe. 
-         . . . .......
+<img width="318" height="265" alt="image" src="https://github.com/user-attachments/assets/36c0ae9f-06b5-4bfc-8218-5ad79be86edb" />
 
 
 ### The bee explanatino is
