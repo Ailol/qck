@@ -1,5 +1,11 @@
 # The operator, .qck ™
+*
+point won in the war
 
+<* ; *> 《muddies the language》
+;*** 《smiley to all the babès in comp or the other side》 
+
+over time these can point to more advanced s scatter for the hackers and the hats and even github to "militia" 
 
 
 # ☈ Phibre'
