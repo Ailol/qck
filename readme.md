@@ -28,14 +28,8 @@
 
 
 
+<img width="207" height="167" alt="image" src="https://github.com/user-attachments/assets/457daa56-b13e-40d5-9319-14093e0c6f79" />
 
-#       for  9'digit'zs
-
-         🐝  🐝   🐝
-🐝 ❥︎ <div.>  ✧  <dev.> [❤︎]
-         🐝  [ᛝ]  🐝 
-          < ✦ : ⚡︎ >
-              ❤︎
 
 
 #### <3 THANK YOU SAM & open'ai with the anon'zs :))
