@@ -12,12 +12,8 @@ fov.qck :: =[ .qck'sz ]
 
 1 out 9 int the p'chain
 
-bit :: = fov(☈) := bit'{[
-    ⡞⡞⡞⡞⡞⡞⡞⡞
-    ⡞⡞⡞⡞⡞⡞⡞⡞
-    ⡞⡞⡞⡞⡞⡞⡞⡞
-    ⡞⡞⡞⡞⡞⡞⡞⡞
-]} into ✧;
+<img width="85" height="77" alt="image" src="https://github.com/user-attachments/assets/d4065867-3a43-443a-9579-620a35705df8" />
+
 
 ---
 
