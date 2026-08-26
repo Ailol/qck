@@ -17,10 +17,6 @@
 
 <img width="409" height="116" alt="image" src="https://github.com/user-attachments/assets/8864f8f6-ec92-45da-8bf9-bd8cfb38b6ac" />
                                    
-                                        
-  ┌─────────────────────────────────────── *
-  |   <Leaving this in hopes it braids>    |
-  * ───────────────────────────────────────┘
                                            
 # the lang.qck in essence is this  [.]
 
