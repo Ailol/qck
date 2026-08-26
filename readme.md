@@ -27,10 +27,15 @@
 <img width="318" height="265" alt="image" src="https://github.com/user-attachments/assets/36c0ae9f-06b5-4bfc-8218-5ad79be86edb" />
 
 
-### The bee explanatino is
 
-❥︎ <div.>  ✧  <dev.> [❤︎]
-          [ᛝ]
-          <✦>
+
+#       for  9'digit'zs
+
+         🐝  🐝   🐝
+🐝 ❥︎ <div.>  ✧  <dev.> [❤︎]
+         🐝  [ᛝ]  🐝 
+          < ✦ : ⚡︎ >
+              ❤︎
+
 
 #### <3 THANK YOU SAM & open'ai with the anon'zs :))
