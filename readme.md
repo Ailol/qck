@@ -13,9 +13,12 @@
 
 1 out 9 int the p'chain
 
+<div align="center">
+<br/>
 <img width="85" height="77" alt="image" src="https://github.com/user-attachments/assets/d4065867-3a43-443a-9579-620a35705df8" />
-
+<br/>
 <img width="409" height="116" alt="image" src="https://github.com/user-attachments/assets/8864f8f6-ec92-45da-8bf9-bd8cfb38b6ac" />
+</div>
                                    
                                            
 # the lang.qck in essence is this  [.]
