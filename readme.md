@@ -10,9 +10,9 @@
 <img width="15" height="21" alt="image" src="https://github.com/user-attachments/assets/586ebce5-e566-4fd0-9b01-3c9255e5d86e" /> ⡞⠳⣠⠞⢷⣠⣄⣀⣠⠞⢷⣠⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img width="202" height="20" alt="image" src="https://github.com/user-attachments/assets/2f3fdb1c-cc74-40d8-a7c2-d9b6693daad9" />
-
-### 1 out 9 int the p'chain
-
+                                   
+                                           
+# the lang.qck in essence is this  [.]
 
 <div align="center">
 <br/>
@@ -20,9 +20,8 @@
 <br/>
 <img width="409" height="116" alt="image" src="https://github.com/user-attachments/assets/8864f8f6-ec92-45da-8bf9-bd8cfb38b6ac" />
 </div>
-                                   
-                                           
-# the lang.qck in essence is this  [.]
+
+
 
 logic is % is the pollen after the [.] #glyph was intro'd
 
