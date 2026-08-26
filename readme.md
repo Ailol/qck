@@ -8,8 +8,7 @@
 
 fov.qck :: =[ .qck'sz ]
 
-<img width="132" height="20" alt="image" src="https://github.com/user-attachments/assets/f9a55185-dd8b-4fe3-af6d-e98f3d9d3d0b" />
-
+<img width="202" height="20" alt="image" src="https://github.com/user-attachments/assets/2f3fdb1c-cc74-40d8-a7c2-d9b6693daad9" />
 
 1 out 9 int the p'chain
 
