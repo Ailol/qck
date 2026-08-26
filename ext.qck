@@ -1,7 +1,0 @@
-# 1 extra file it has, the adaptor for all fields is the goal
-```
-qck kills the N×N adapter problem.
-
-source % qck
-qck % target
-```
