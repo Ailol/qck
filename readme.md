@@ -8,7 +8,8 @@
 
 fov.qck :: =[ .qck'sz ]
 
-> [.] | fov % ✧; (b33'op) : op(b'map);
+<img width="132" height="20" alt="image" src="https://github.com/user-attachments/assets/f9a55185-dd8b-4fe3-af6d-e98f3d9d3d0b" />
+
 
 1 out 9 int the p'chain
 
