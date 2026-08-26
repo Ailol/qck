@@ -1,4 +1,4 @@
-# Lang.qck is defined 
+# ᴛɪɴʏ.qck ™
 
 ### spectrum is awesome if you are that yourself;
 
