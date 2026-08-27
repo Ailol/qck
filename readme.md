@@ -17,7 +17,7 @@ s'bit is q't'p (suga'|spicy' bit) to add or to compact the data into.
 
 ### Wave(signals t'2 of t3) in b33
 
-**<➴>"suitable for the time, or mass, created for the individual to the indiviual by the indiviual. "**
+<img width="33" height="38" alt="image" src="https://github.com/user-attachments/assets/3a0729ac-9114-4697-b3af-035f53b362f4" /> suitable for the time, or mass, created for the individual to the indiviual by the indiviual. "**
 
 <img width="33" height="38" alt="image" src="https://github.com/user-attachments/assets/fb2b4b36-0c4e-4eb0-b16a-b36e565cfb46" /><'html brackets mean it was relevant when i wrote it'>
 
