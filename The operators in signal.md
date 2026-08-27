@@ -1,48 +1,26 @@
-# qck ™
+# The operator language
 
-#### The honey'b language
+#### For the b33 kid'zs i can give 1 ace out so that coordination becomes possible <3
 
-> data %  structure; operator (spicy bit'z) observer(sugabit' );
-
-s'bit is q't'p (suga'|spicy' bit) to add or to compact the data into.
-
-### Wave(signals t'2 of t3) in b33
-
-"suitable for the time, or mass"
-
-`this one is a observer vs wave particle understandment :)
-
-its a b33 or bee i am'
-
-where the signal sets' the struct, and bee is that microsoft sets the signal, and in b33, we set the signal <3 :) `
-
-%  = pollen[sz] (bit' to structure or nit or quant);
-
-## Signals in b33
-
-; defines the definitios
-
-- operator = sets the particklesz
-- observer(q't'p)
+QCK LNG'Quick Language
 
 ```
-quantum
-
-' time
-
-' partikles
+qck lang in core is 1 liner, except for bee's its a extenion based / plugin based / scratch for adults :)
 ```
 
-#### <observer is the current'>
+for us b33's, its a draw.io language of when you "just want the "try the luck"" sometimes with eli5 :)
 
-the idea isnt up or down in b3 'b33' bee, its a nit' like
+#### Forever, only get to change the ;* in the readme and
 
-you decide the meaning, it can be be eb ebbbb etc, think of  it like this:
+--- glyphs ---
 
-> bee:
-> [♪♩ ♫ ♭ ♪] ᴾarticles
-> where b33 is code or kode levels:
-> [#4x4424] - music in the end in you makes you draw beauty, scary..
+q = quantum, quant, quanta
+p = particklesz
 
-operator = set(particklesz);
-*observer <ᛝ | 🕸>  after_effect(?);
+# For the Law makers, i can suggest 1 ace to play in the next shift, q't'p
+
+ᖳ'§'ᖰ  v.1.0.0 * <c'ti, chain || proto> setOfRealites define{y2k ::= ✧ ❥︎ ✦ := ❥︎ from([Я]'of(☈)%(⚡︎ ✧ || ❤︎✦) : op() ; observ (↯'er(?)) >>]] }
+
+for law that means:
+
+🐝 ::= ☙ := 💲 % 🖤;

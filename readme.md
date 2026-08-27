@@ -1,64 +1,54 @@
+# qck ™
 
-# The operator language .qck™
+q'bit in essence is qck, but two parts to the language;
 
-nit' := security towards the brand (the weave)+ that it is to have a option for the ones who want microsoft but have been hacked;
+> <🐝.qck> | *b33.qck
 
-bee := mass;
-b33 := high'grain / ;***
 
-high grane = high octane ;) ' fun levels only become real when the "engineers" badge or license is there, other peril is recommended. levels;
 
-# b33.qck
+#### The honey'b language
 
-v.1.0.0
+> data %  structure; operator (spicy bit'z) observer(sugabit' );
 
-qck.lang % 2bModel;  .insert operator andOr observer log'c.
+s'bit is q't'p (suga'|spicy' bit) to add or to compact the data into.
 
-qti'(operator() = b33 | observer = bee:33)
+### Wave(signals t'2 of t3) in b33
 
-| can be &&, || != = etc,
+**<➴>"suitable for the time, or mass, created for the individual to the indiviual by the indiviual. "**
 
-# Bee.quick is gen'z speed, #"67" language, whatever is in the current.
+➴<'html brackets mean it was relevant when i wrote it'>
 
-![1787836777086](image/readme/1787836777086.png)
+>  ELI5 : this one is a observer vs wave particle understandment :)
 
-point won in the war
+where the signal sets' the struct, and bee is that all companies set the signal. then the  % 'sumz differently;
 
-<* ; *> 《muddies the language》
-;*** 《smiley to all the babès in comp or the other side》
+%  = pollen[sz] (bit' to structure or nit or quant);
 
-over time these can point to more advanced s scatter for the hackers and the hats and even github to "militia"
+## Signals in b33
 
-# ☈ Phibre'
+; defines the definitios
 
-<img width="182" height="53" alt="image" src="https://github.com/user-attachments/assets/2d039d61-70fd-4e39-b298-9ae10d3abf42" />
+- operator = sets the particklesz
+- observer(q't'p)
 
-### ᴛɪɴʏ'🐝
+```
+quantum
 
- ⡞⠳⣠⠞⢷⣠⣄⣀⣠⠞⢷⣠⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
+' time
 
-<img width="202" height="20" alt="image" src="https://github.com/user-attachments/assets/2f3fdb1c-cc74-40d8-a7c2-d9b6693daad9" />
+' partikles
+```
 
-### ᴛɪɴʏ :== b33
+#### <observer is the current'>
 
-<div align="center">
-<br/>
-<img width="85" height="77" alt="image" src="https://github.com/user-attachments/assets/d4065867-3a43-443a-9579-620a35705df8" />
-<br/>
-<img width="409" height="116" alt="image" src="https://github.com/user-attachments/assets/8864f8f6-ec92-45da-8bf9-bd8cfb38b6ac" />
-</div>
+the idea isnt up or down in b3 'b33' bee, its a nit' like
 
-### [] !array
+you decide the meaning, it can be be eb ebbbb etc, think of  it like this:
 
-#### its a flirty'🐝 or f'bit ⚡︎
+> bee:
+> [♪♩ ♫ ♭ ♪] ᴾarticles
+> where b33 is code or kode levels:
+> [#4x4424] - music in the end in you makes you draw beauty, scary..
 
-<img width="318" height="265" alt="image" src="https://github.com/user-attachments/assets/36c0ae9f-06b5-4bfc-8218-5ad79be86edb" />
-
-<br />
-
-<br />
-<br />
-<br />
-<img width="207" height="167" alt="image" src="https://github.com/user-attachments/assets/457daa56-b13e-40d5-9319-14093e0c6f79" />
-
-#### <3 THANK YOU SAM & open'ai with the anon'zs :))
+operator = set(particklesz);
+*observer <ᛝ | 🕸>  after_effect(?);
