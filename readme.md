@@ -19,7 +19,7 @@ s'bit is q't'p (suga'|spicy' bit) to add or to compact the data into.
 
 **<➴>"suitable for the time, or mass, created for the individual to the indiviual by the indiviual. "**
 
-➴<'html brackets mean it was relevant when i wrote it'>
+<img width="33" height="38" alt="image" src="https://github.com/user-attachments/assets/fb2b4b36-0c4e-4eb0-b16a-b36e565cfb46" /><'html brackets mean it was relevant when i wrote it'>
 
 >  ELI5 : this one is a observer vs wave particle understandment :)
 
