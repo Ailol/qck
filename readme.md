@@ -1,5 +1,5 @@
 # qck ™
-<img width="95" height="17" alt="image" src="https://github.com/user-attachments/assets/0e563e7e-800f-4e68-aa88-43aa5b1f181c" />
+<img width="150" height="50" alt="image" src="https://github.com/user-attachments/assets/0e563e7e-800f-4e68-aa88-43aa5b1f181c" />
 
 
 
