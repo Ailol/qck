@@ -1,25 +1,45 @@
-# The operator, .qck ™
-*
+
+# The operator language .qck™
+
+nit' := security towards the brand (the weave)+ that it is to have a option for the ones who want microsoft but have been hacked;
+
+bee := mass;
+b33 := high'grain / ;***
+
+high grane = high octane ;) ' fun levels only become real when the "engineers" badge or license is there, other peril is recommended. levels;
+
+# b33.qck
+
+v.1.0.0
+
+qck.lang % 2bModel;  .insert operator andOr observer log'c.
+
+qti'(operator() = b33 | observer = bee:33)
+
+| can be &&, || != = etc,
+
+# Bee.quick is gen'z speed, #"67" language, whatever is in the current.
+
+![1787836777086](image/readme/1787836777086.png)
+
 point won in the war
 
 <* ; *> 《muddies the language》
-;*** 《smiley to all the babès in comp or the other side》 
+;*** 《smiley to all the babès in comp or the other side》
 
-over time these can point to more advanced s scatter for the hackers and the hats and even github to "militia" 
-
+over time these can point to more advanced s scatter for the hackers and the hats and even github to "militia"
 
 # ☈ Phibre'
+
 <img width="182" height="53" alt="image" src="https://github.com/user-attachments/assets/2d039d61-70fd-4e39-b298-9ae10d3abf42" />
 
-### <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/2b58fd91-e5df-40c6-9692-3b95b0882a47" /> ᴛɪɴʏ'🐝
+### ᴛɪɴʏ'🐝
 
-<img width="15" height="21" alt="image" src="https://github.com/user-attachments/assets/586ebce5-e566-4fd0-9b01-3c9255e5d86e" /> ⡞⠳⣠⠞⢷⣠⣄⣀⣠⠞⢷⣠⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
+ ⡞⠳⣠⠞⢷⣠⣄⣀⣠⠞⢷⣠⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img width="202" height="20" alt="image" src="https://github.com/user-attachments/assets/2f3fdb1c-cc74-40d8-a7c2-d9b6693daad9" />
-                                   
-                                           
-###  ᴛɪɴʏ :== b33 <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/6db31458-c195-41c8-aeb1-90a9a177fd9a" />
 
+### ᴛɪɴʏ :== b33
 
 <div align="center">
 <br/>
@@ -28,8 +48,9 @@ over time these can point to more advanced s scatter for the hackers and the hat
 <img width="409" height="116" alt="image" src="https://github.com/user-attachments/assets/8864f8f6-ec92-45da-8bf9-bd8cfb38b6ac" />
 </div>
 
- ### [] !array 
- #### its a flirty'🐝 or f'bit ⚡︎
+### [] !array
+
+#### its a flirty'🐝 or f'bit ⚡︎
 
 <img width="318" height="265" alt="image" src="https://github.com/user-attachments/assets/36c0ae9f-06b5-4bfc-8218-5ad79be86edb" />
 
@@ -39,7 +60,5 @@ over time these can point to more advanced s scatter for the hackers and the hat
 <br />
 <br />
 <img width="207" height="167" alt="image" src="https://github.com/user-attachments/assets/457daa56-b13e-40d5-9319-14093e0c6f79" />
-
-
 
 #### <3 THANK YOU SAM & open'ai with the anon'zs :))
