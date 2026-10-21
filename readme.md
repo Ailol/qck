@@ -1,3 +1,22 @@
+# 🌱 <human qck programming
+> qck%note; op(pfeno); obsv(pheno'set)
+
+qck is "noticed behaviour"
+% my idea of spiderman as carpenter;
+note; is the nice one as it changes others
+
+op" operating system or gatherer
+(pfeno) ideology or idea garnishing
+; nothinf at all
+obsrv(pheno'set)
+
+observer(when you have observed and ready to continue) 😊
+
+
+
+
+
+
 # qck ™ <img width="150" height="25" alt="image" src="https://github.com/user-attachments/assets/0e563e7e-800f-4e68-aa88-43aa5b1f181c" />
 
 
