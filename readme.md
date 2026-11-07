@@ -74,3 +74,10 @@ you decide the meaning, it can be be eb ebbbb etc, think of  it like this:
 
 operator = set(particklesz);
 *observer <ᛝ | 🕸>  after_effect(?);
+
+## qck.inte`rp
+
+[Colour and background controls](qck.interp.md) · [Spatial and level vocabulary](spatial-levels.md) · [Canvas editor](qck.draw.html) · [Companion demo](qck.interp.html)
+
+A small browser interface for custom CSS colours, backgrounds, glow and grain, with a portable settings file. The demo keeps fabric, spatial placement, time and current context visible as distinct project levels.
+
